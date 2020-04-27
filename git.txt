@@ -1,0 +1,8 @@
+#Update local master
+git pull upstream master
+
+#Set upstream
+git remote add upstream <wwwpath>
+
+#Update github
+git push origin master
